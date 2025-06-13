@@ -1,0 +1,4 @@
+Linux 6.6.87.1-microsoft-standard-WSL2 (LAPTOP-5KLLEFAB) 	06/13/25 	_x86_64_	(14 CPU)
+
+07:48:39     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+07:48:40     all   34.86    0.00    0.29    0.00    0.00    0.29    0.00    0.00    0.00   64.57

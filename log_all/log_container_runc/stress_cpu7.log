@@ -1,0 +1,7 @@
+stress-ng: info:  [7041] setting to a 1 min, 0 secs run per stressor
+stress-ng: info:  [7041] dispatching hogs: 7 cpu
+stress-ng: info:  [7041] skipped: 0
+stress-ng: info:  [7041] passed: 7: cpu (7)
+stress-ng: info:  [7041] failed: 0
+stress-ng: info:  [7041] metrics untrustworthy: 0
+stress-ng: info:  [7041] successful run completed in 31.65 secs

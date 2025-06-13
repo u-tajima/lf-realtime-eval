@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/DeadlineTest.dir/lib/schedule.c.o CMakeFiles/DeadlineTest.dir/_deadlinetest_main.c.o CMakeFiles/DeadlineTest.dir/_source.c.o CMakeFiles/DeadlineTest.dir/_destination.c.o CMakeFiles/DeadlineTest.dir/DeadlineTest.c.o -o DeadlineTest  -lm core/libreactor-c.a core/liblf-low-level-platform-impl.a core/liblf-platform-impl.a 

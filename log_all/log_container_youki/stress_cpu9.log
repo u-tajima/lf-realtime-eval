@@ -1,0 +1,7 @@
+stress-ng: info:  [8840] setting to a 1 min, 0 secs run per stressor
+stress-ng: info:  [8840] dispatching hogs: 9 cpu
+stress-ng: info:  [8840] skipped: 0
+stress-ng: info:  [8840] passed: 9: cpu (9)
+stress-ng: info:  [8840] failed: 0
+stress-ng: info:  [8840] metrics untrustworthy: 0
+stress-ng: info:  [8840] successful run completed in 31.77 secs
